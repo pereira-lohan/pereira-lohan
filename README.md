@@ -6,7 +6,7 @@ Sou entusiasta em novas tecnologias, eu ❤️ estudar coisas novas. No meu temp
 
 Sinta-se à vontade para explorar meus repositórios! E me adicione no LinkedIn para fazermos networking! 🤗 ️😉️
 
-👉 ️![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pereira-lohan-dev/)
+👉 ️[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pereira-lohan-dev/)]
 
 
 <!--
