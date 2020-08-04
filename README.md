@@ -1,9 +1,14 @@
-## Olá! 🙃️ 👋
+# Lohan Pereira
 
-Me chamo Lohan, sou programador C++ e C#, trabalho com softwares para automação comercial, um ERP voltado para Varejistas, Atacadistas e Indústria. Sou morador Iguaba Grande - Rio de Janeiro (🇧🇷️).
+## Olá! 🙃️  👋
+Sou apaixonado por tecnologia e deixar a vida mais fácil com programação!
+Sou um FullStack Developer 👨‍💻️
 
-Sou entusiasta em novas tecnologias, eu ❤️ estudar coisas novas. No meu tempo livre sempre tento criar algo novo, seja um app 👨‍💻️, uma rotina, qualquer coisa. 
-
-Sinta-se à vontade para explorar meus repositórios! E me adicione no LinkedIn para fazermos networking! 🤗 ️😉️
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pereira-lohan-dev)](https://www.linkedin.com/in/pereira-lohan-dev)
+ 🛒  &nbsp; Estou trabalhando na **SD Informática** &nbsp; 🖥️ &nbsp; Utilizando C++ & C#
+ <br/> :heart: &nbsp; Busco colaborar com projetos mobile com Flutter & React Native
+ <br/> :computer: &nbsp; Hoje estudo a stack: Node.js, ReactJS, React Native, Typescript & Flutter
+ <br/> 💬  &nbsp; Sobre mim: Amo tecnologia, games como Middle Earth: Shadow of Mordor, Assassin's Creed e livros do Dan Brown
+ <br/> 🤗 &nbsp; Sinta-se à vontade para explorar meus repositórios! E me adicione no LinkedIn ou mande um e-mail para fazermos networking!
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pereira-lohan-dev/)](https://www.linkedin.com/in/pereira-lohan-dev/) 
+&nbsp; 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white&link=mailto:pereira.lohan.dev@gmail.com)](mailto:pereira.lohan.dev@gmail.com)
