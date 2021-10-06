@@ -2,9 +2,9 @@
 
 ## Olá! 🙃️  👋
 Sou apaixonado por tecnologia e deixar a vida mais fácil com programação!
-Sou um FullStack Developer 👨‍💻️
+Sou Backend Software Engineer 👨‍💻️
 
- 💻️  &nbsp; Atualmente trabalho na **Meta** com C/C++ e Java &nbsp; 🖥️ &nbsp;
+ 💻️  &nbsp; Atualmente trabalho na **Hypeflame** com Java &nbsp; 🖥️ &nbsp;
  <br/> :heart: &nbsp; Busco colaborar com projetos mobile com Flutter & React Native
  <br/> :computer: &nbsp; Hoje estudo a stack: Node.js, ReactJS, React Native, Typescript & Flutter
  <br/> 💬  &nbsp; Sobre mim: Amo tecnologia, games como Middle Earth: Shadow of Mordor, Assassin's Creed e livros do Dan Brown
